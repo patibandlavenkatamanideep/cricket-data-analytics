@@ -3,12 +3,12 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 # Steps involved in the project:                                        
 
-📝Requirement Scoping
-🌐Data Collection using Web Scraping from ESPN Cricinfo website
-🧹Data Cleaning and Preprocessing in Pandas
-🪄Data Transformation in Power Query
-⚒️Data Modelling and Building Parameters in Power BI using DAX
-📊Building the Dashboard in Power BI
+1.📝Requirement Scoping
+2.🌐Data Collection using Web Scraping from ESPN Cricinfo website
+3.🧹Data Cleaning and Preprocessing in Pandas
+4.🪄Data Transformation in Power Query
+5.⚒️Data Modelling and Building Parameters in Power BI using DAX
+6.📊Building the Dashboard in Power BI
 
 <img width="1272" height="688" alt="image" src="https://github.com/user-attachments/assets/a1fdf4a9-a715-4283-9a57-1ba8eafc83ad" />
 
